@@ -42,7 +42,7 @@
 
 
 
-<img align="left" alt="tejaswan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejaswankalluri82522&show_icons=true&hide_border=true" />
+<img align="left" alt="tejaswan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejaswankalluri&show_icons=true&hide_border=true" />
 
 [website]: http://tejaswan.netlify.app
 [twitter]: https://twitter.com/tejaswan1
