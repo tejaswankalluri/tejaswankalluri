@@ -1,3 +1,5 @@
+
+
 ### Hi there, I'm Tejaswan [my portfolio][website] 👋
 
 
@@ -41,12 +43,13 @@
 <br />
 <br />
 
-# Weekly Wakatime
+## Weekly Wakatime
 
-<img align="left" alt="tejaswan's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=tejaswan&layout=compact" />
+<img alt="tejaswan's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=tejaswan&layout=compact" />
 
+## Github Stats
 
-<img align="left" alt="tejaswan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejaswankalluri&show_icons=true&hide_border=true" />
+<img  alt="tejaswan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejaswankalluri&show_icons=true&hide_border=true" />
 
 
 
