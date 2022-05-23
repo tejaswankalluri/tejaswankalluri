@@ -42,6 +42,12 @@
 
 <img align="left" alt="tejaswan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejaswankalluri&show_icons=true&hide_border=true" />
 
+
+
+---
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 [website]: http://tejaswan.netlify.app
 [twitter]: https://twitter.com/tejaswan1
 <!-- [youtube]: https://www.youtube.com/channel/UCE6CGqVEN9wOTZcPKXNNy0g?view_as=subscriber -->
