@@ -53,7 +53,7 @@
 
 
 
-[website]: http://tejaswan.netlify.app
+[website]: https://tejaswan.me
 [twitter]: https://twitter.com/tejaswan1
 <!-- [youtube]: https://www.youtube.com/channel/UCE6CGqVEN9wOTZcPKXNNy0g?view_as=subscriber -->
 [instagram]: https://instagram.com/tejaswan_techtoe
