@@ -49,6 +49,12 @@
 
 <img alt="tejaswan's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=tejaswan&layout=compact" />
 
+---
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 [website]: https://tejaswan.me
 [twitter]: https://twitter.com/tejaswan1
 <!-- [youtube]: https://www.youtube.com/channel/UCE6CGqVEN9wOTZcPKXNNy0g?view_as=subscriber -->
