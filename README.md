@@ -52,6 +52,11 @@
 ---
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [#4 HTML &lt;Tags /&gt;](https://blog.tejaswan.me/4-html-tags)
+- [#3 Intro To HTML](https://blog.tejaswan.me/3-intro-to-html)
+- [Ways To Center a div](https://blog.tejaswan.me/ways-to-center-a-div)
+- [#2 How the Internet Works](https://blog.tejaswan.me/2-how-the-internet-works)
+- [#1 Introduction To The Series](https://blog.tejaswan.me/1-introduction-to-the-series)
 <!-- BLOG-POST-LIST:END -->
 
 
