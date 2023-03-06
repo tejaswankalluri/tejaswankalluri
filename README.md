@@ -1,12 +1,11 @@
-
-
 ### Hi there, I'm Tejaswan 👋
-
 
 ### Connect with me:
 
 [<img align="left" alt="tejaswan.me" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
+
 <!-- [<img align="left" alt="tejaswan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
+
 [<img align="left" alt="tejaswan | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="tejaswan | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="tejaswan | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
@@ -16,10 +15,10 @@
 <br />
 
 ---
+
  <img src="https://visitor-badge.deta.dev/badge?page_id=tejaswankallui.tejaswankalluri" alt="visitor badge"/>
  
 ### Languages and Tools:
-
 
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -45,19 +44,23 @@
 <img  alt="tejaswan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejaswankalluri&show_icons=true&hide_border=true" />
 
 ---
+
 ## Wakatime
 
 <img alt="tejaswan's Github Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=tejaswan&layout=compact" />
 
 ---
-# Blog posts
+
+# Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
 [website]: https://tejaswan.me
 [twitter]: https://twitter.com/tejaswan1
+
 <!-- [youtube]: https://www.youtube.com/channel/UCE6CGqVEN9wOTZcPKXNNy0g?view_as=subscriber -->
+
 [instagram]: https://instagram.com/tejaswan_techtoe
 [linkedin]: https://www.linkedin.com/in/tejaswan-kalluri/
 [hashnode]: https://blog.tejaswan.me/
