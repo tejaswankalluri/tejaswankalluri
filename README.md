@@ -16,7 +16,7 @@
 
 ---
 
- <img src="https://visitor-badge.imlete.cn/?id=tejaswankalluri&type=pv&style=flat" alt="visitor badge"/>
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=tejaswankalluri.tejaswankalluri" alt="visitor badge"/>
  
 ### Languages and Tools:
 
