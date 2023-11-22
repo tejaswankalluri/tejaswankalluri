@@ -38,12 +38,13 @@
 <br />
 
 ---
+<!--
 
 ## Github Stats
 
 <img  alt="tejaswan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejaswankalluri&show_icons=true&hide_border=true" />
-
 ---
+-->
 
 ## Wakatime
 
