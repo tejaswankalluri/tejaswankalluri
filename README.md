@@ -18,6 +18,8 @@
 
  <img src="https://visitor-badge.laobi.icu/badge?page_id=tejaswankalluri.tejaswankalluri" alt="visitor badge"/>
  
+ [![wakatime](https://wakatime.com/badge/user/ed7986b8-4fb9-4300-8c3e-b39f2342cb2e.svg)](https://wakatime.com/@ed7986b8-4fb9-4300-8c3e-b39f2342cb2e)
+ 
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
