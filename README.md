@@ -57,11 +57,11 @@
 # Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [#5 Introduction to CSS](https://blog.tejaswan.me/5-introduction-to-css)
-- [#4 HTML &lt;Tags /&gt;](https://blog.tejaswan.me/4-html-tags)
-- [#3 Intro To HTML](https://blog.tejaswan.me/3-intro-to-html)
-- [Ways To Center a div](https://blog.tejaswan.me/ways-to-center-a-div)
-- [#2 How the Internet Works](https://blog.tejaswan.me/2-how-the-internet-works)
+- [#5 Introduction to CSS](https://tejaswan.hashnode.dev/5-introduction-to-css)
+- [#4 HTML &lt;Tags /&gt;](https://tejaswan.hashnode.dev/4-html-tags)
+- [#3 Intro To HTML](https://tejaswan.hashnode.dev/3-intro-to-html)
+- [Ways To Center a div](https://tejaswan.hashnode.dev/ways-to-center-a-div)
+- [#2 How the Internet Works](https://tejaswan.hashnode.dev/2-how-the-internet-works)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://tejaswan.me
