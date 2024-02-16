@@ -65,7 +65,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://tejaswan.me
-[twitter]: https://twitter.com/tejaswan1
+[twitter]: https://twitter.com/techtoe_
 
 <!-- [youtube]: https://www.youtube.com/channel/UCE6CGqVEN9wOTZcPKXNNy0g?view_as=subscriber -->
 
